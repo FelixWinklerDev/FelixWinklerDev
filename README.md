@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently in a continuing education by Developer Akademie<br>🎯 Goals: get my first job as Software-Developer specific Web-Developer in Frontend<br>🎲 Fun fact: I don't like the spring beacause i have allergies...</p>
+<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently in a continuing education by Developer Akademie<br>🎯 Goals: to get in my first IT-job to improve my Tech-Stack<br>🎲 Fun fact: I don't like the spring because i have allergies...</p>
 
 ###
 
